@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Balsamiq Sans', cursive;
+    text-align: center;
+   
+}
+#header{
+    background: rgb(201, 248, 194);
+    
+    margin:0 0.7;
+    
+}
+#header h1{
+    height:80px;
+    margin: 3px;
+    padding: 1rem 0;
+    color:black;
+}
+#container{
+    height:auto;
+    width:700px;
+    margin: 0 auto;
+}
+
+#wrapper{
+    float:right;
+    width:500px;
+}
+#wrapper p{
+    line-height:1.5;
+    text-align: justify;
+}
+#navi{
+    float:left;
+    height:500px;
+    background-color:  rgb(191, 243, 183);
+    width:200px;
+    
+}
+#navi ul{
+    margin-left:10px;
+    list-style-type: none;
+}
+#navi ul li{
+    margin:1rem;
+}
+#footer{
+    clear: both;
+    background:  rgb(201, 248, 194);
+    
+    width: 100%;
+}
+#footer p{
+    margin:0;
+    padding: 5px 10px;
+}
+a{
+    padding: 5px;
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+}
+.tabi{
+    border-collapse: collapse;
+}
+.tabi td,.tabi th{
+    border:1px solid black;
+    padding:5px;
+    border-collapse: collapse;
+}
+p{
+    margin:0 10px 10px;
+}
+#heading{
+    text-align: center;
+
+}
+#center{
+    background-color: wheat;
+    padding: 30px;
+    height:380px ;
+    
+    
+}
+.namecol,.passcol{
+    text-align: center;
+    margin:1rem 0;
+    font-weight: bold;
+
+
+}
+.logout{
+    color:rgb(189, 76, 76);
+    
+}
+.logout:hover{
+    
+    font-weight: bold;
+}
+button{
+    margin-top: 20px;
+    padding: 5px 12px;
+    border-radius: 10px;
+    color: rgb(37, 103, 88);
+    
+    
+}
+.para{
+background-color: black;
+color:white;
+text-align: justify;
+margin:1rem 6rem;
+
+}
+.para p{
+    padding:10px;
+    margin: 4rem;
+}
+label{
+    font-size: 20px;
+    color: rgb(37, 103, 88);
+    
+}
+input{
+    border:1px solid whitesmoke;
+
+    border-radius: 10px;
+    width: 160px;
+    padding: 4px;
+    margin:1rem;
+
+}
+input:focus{
+    border:1px solid yellowgreen;
+    margin:10px;
+    
+}
+
+.error{
+    color:red;
+    text-align: center;
+}
+.success{
+    color: green;
+    text-align: center;
+    padding-left: 175px;
+    font-size: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
